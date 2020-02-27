@@ -1,8 +1,7 @@
 package com.vietcoscc.tagview
 
-import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
-import com.example.myapplication.R
+import androidx.appcompat.app.AppCompatActivity
 
 class MainActivity : AppCompatActivity() {
 

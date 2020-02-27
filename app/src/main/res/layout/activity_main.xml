@@ -6,9 +6,9 @@
     android:background="@android:color/white"
     tools:context="com.vietcoscc.tagview.MainActivity">
 
-    <TagView
+    <com.vietcoscc.tagview.TagView
         android:layout_margin="20sp"
-        android:layout_width="90dp"
+        android:layout_width="match_parent"
         android:layout_height="wrap_content" />
 
 </RelativeLayout>
